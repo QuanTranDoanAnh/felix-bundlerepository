@@ -1,0 +1,133 @@
+
+*****************************************************
+Summary
+-------
+Notes: 0
+Binaries: 0
+Archives: 6
+Standards: 79
+
+Apache Licensed: 79
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+ + src/test/resources/repo_files/test_file_1.jar
+ 
+ + src/test/resources/repo_files/test_file_2.jar
+ 
+ + src/test/resources/repo_files/test_file_3.jar
+ 
+ + src/test/resources/repo_files/test_file_4.jar
+ 
+ + src/test/resources/spec_repository.gz
+ 
+ + src/test/resources/spec_repository.zip
+ 
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    src/main/java/org/apache/felix/bundlerepository/Capability.java
+  AL    src/main/java/org/apache/felix/bundlerepository/DataModelHelper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/Activator.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/Base64Encoder.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/CapabilityImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/DataModelHelperImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/FelixCapabilityAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/FelixPropertyAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/FelixRequirementAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/FelixResourceAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/FileUtil.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/LazyLocalResourceImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/LazyStringMap.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/LocalRepositoryImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/LocalResourceImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/NamespaceTranslator.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ObrCommandImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ObrGogoCommand.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ObrURLStreamHandlerService.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/OSGiCapabilityAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/OSGiRepositoryImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/OSGiRequirementAdapter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/OSGiResourceHelper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/OSGiResourceImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/PropertyImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/PullParser.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ReasonImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/Referral.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/RepositoryAdminImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/RepositoryImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/RepositoryParser.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/RequirementImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ResolverImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ResourceCapability.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ResourceCapabilityImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ResourceComparator.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/ResourceImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/SpecXMLPullParser.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/StaxParser.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/SystemRepositoryImpl.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/CapabilityWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ConvertedResource.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RepositoryAdminWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RepositoryWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RequirementWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ResolverWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ResourceWrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/wrapper/Wrapper.java
+  AL    src/main/java/org/apache/felix/bundlerepository/impl/XmlWriter.java
+  AL    src/main/java/org/apache/felix/bundlerepository/InterruptedResolutionException.java
+  AL    src/main/java/org/apache/felix/bundlerepository/LocalResource.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Property.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Reason.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Repository.java
+  AL    src/main/java/org/apache/felix/bundlerepository/RepositoryAdmin.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Requirement.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Resolver.java
+  AL    src/main/java/org/apache/felix/bundlerepository/Resource.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/CapabilityImplTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/DataModelHelperTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/FelixRequirementAdapterTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/LazyStringMapTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/NamespaceTranslatorTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/OSGiRepositoryImplTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/OSGiRepositoryXMLTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/OSGiRequirementAdapterTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/RepositoryAdminTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/RepositoryImplTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/ResolverImplTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/ResourceImplTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/StaxParserTest.java
+  AL    src/test/java/org/apache/felix/bundlerepository/impl/Streams.java
+  AL    src/test/resources/another_repository.xml
+  AL    src/test/resources/referral1_repository.xml
+  AL    src/test/resources/referred.xml
+  A     src/test/resources/repo_files/test_file_1.jar
+  A     src/test/resources/repo_files/test_file_2.jar
+  A     src/test/resources/repo_files/test_file_3.jar
+  A     src/test/resources/repo_files/test_file_4.jar
+  AL    src/test/resources/repo_for_mandatory.xml
+  AL    src/test/resources/repo_for_optional_resources.xml
+  AL    src/test/resources/repo_for_resolvertest.xml
+  A     src/test/resources/spec_repository.gz
+  AL    src/test/resources/spec_repository.xml
+  A     src/test/resources/spec_repository.zip
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

@@ -1,0 +1,45 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Felix Bundle Repository
+
+
+From: 'an unknown organization'
+  - StAX API (http://stax.codehaus.org/) stax:stax-api:jar:1.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus' (http://www.codehaus.org/)
+  - Stax2 API (http://woodstox.codehaus.org/StAX2) org.codehaus.woodstox:stax2-api:jar:3.0.1
+    License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+  - Woodstox (http://woodstox.codehaus.org) org.codehaus.woodstox:woodstox-core-asl:jar:4.0.7
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'OSGi Alliance' (http://www.osgi.org)
+  - osgi.cmpn (http://www.osgi.org) org.osgi:org.osgi.compendium:jar:5.0.0
+    License: Apache License, Version 2.0  (http://opensource.org/licenses/apache2.0.php)
+  - osgi.core (http://www.osgi.org) org.osgi:org.osgi.core:jar:5.0.0
+    License: Apache License, Version 2.0  (http://opensource.org/licenses/apache2.0.php)
+
+From: 'OSGi Alliance' (http://www.osgi.org/)
+  - OSGi OBR Service API (http://felix.apache.org/org.osgi.service.obr/) org.apache.felix:org.osgi.service.obr:bundle:1.0.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Stefan Haustein, Oberhausen, Rhld., Germany' (http://kxml.sourceforge.net/)
+  - kXML 2 is a small XML pull parser based on the common XML pull API (http://kxml.sourceforge.net/) net.sf.kxml:kxml2:jar:2.3.0
+    License: BSD style  (http://kxml.cvs.sourceforge.net/viewvc/kxml/kxml2/license.txt?view=markup)    License: Public Domain  (http://creativecommons.org/licenses/publicdomain)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Felix Gogo Runtime (http://felix.apache.org/gogo-parent/org.apache.felix.gogo.runtime/) org.apache.felix:org.apache.felix.gogo.runtime:bundle:1.0.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Felix Shell Service (http://felix.apache.org/org.apache.felix.shell/) org.apache.felix:org.apache.felix.shell:bundle:1.4.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Felix Utils (http://felix.apache.org/org.apache.felix.utils/) org.apache.felix:org.apache.felix.utils:jar:1.11.0-SNAPSHOT
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

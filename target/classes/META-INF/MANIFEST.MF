@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1525351000022
+Build-Jdk: 1.8.0_131
+Built-By: QuanTDA1
+Bundle-Activator: org.apache.felix.bundlerepository.impl.Activator
+Bundle-Description: Bundle repository service.
+Bundle-DocURL: http://felix.apache.org/site/apache-felix-osgi-bundle-rep
+ ository.html
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Felix Bundle Repository
+Bundle-Source: http://felix.apache.org/site/downloads.cgi
+Bundle-SymbolicName: org.apache.felix.bundlerepository
+Bundle-Url: http://felix.apache.org/site/downloads.cgi
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 2.0.11.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: org.apache.felix.shell,org.apache.felix.service.c
+ ommand
+Export-Package: org.osgi.service.repository;version="1.0";uses:="org.osg
+ i.resource",org.apache.felix.bundlerepository;version="2.1";uses:="org.
+ osgi.framework"
+Export-Service: org.apache.felix.bundlerepository.RepositoryAdmin,org.os
+ gi.service.obr.RepositoryAdmin
+Import-Package: org.osgi.service.repository;resolution:=mandatory;versio
+ n="[1.0,1.1)",org.osgi.service.log;resolution:=optional;version="[1.3,2
+ )",org.osgi.service.obr;resolution:=optional;version="[1.0,2)",org.apac
+ he.felix.shell;resolution:=optional;version="[1.0,2)",org.apache.felix.
+ service.command;resolution:=optional;version="[1.0,2)",javax.xml.stream
+ ;resolution:=optional,org.apache.felix.bundlerepository;version="[2.1,3
+ )",org.osgi.framework;version="[1.7,2)",org.osgi.framework.namespace;ve
+ rsion="[1.0,2)",org.osgi.framework.wiring;version="[1.1,2)",org.osgi.na
+ mespace.service;version="[1.0,2)";resolution:=optional,org.osgi.resourc
+ e;version="[1.0,2)",org.osgi.service.cm;version="[1.5,2)";resolution:=o
+ ptional,org.osgi.service.url;version="[1.0,2)",org.osgi.util.tracker;ve
+ rsion="[1.5,2)"
+Provide-Capability: osgi.implementation;osgi.implementation="osgi.reposi
+ tory";uses:="org.osgi.service.repository";version:Version="1.1",osgi.se
+ rvice;objectClass:List<String>="org.osgi.service.repository.Repository"
+ ;uses:="org.osgi.service.repository"
+Tool: Bnd-2.1.0.20130426-122213
